@@ -1,2 +1,5 @@
-# spring-validation-example
-Spring Validation Example
+# Валидация входящих запросов в Spring Boot
+Проект содержит простой пример валидации входящих запросов в декларативном стиле с помощью **spring-boot-starter-validation**.
+Также представлен пример кастомизации формата ответа при ошибке валидации.
+
+Более подробно см. статью [Валидация бинов в Spring](https://devmark.ru/article/spring-validation).
